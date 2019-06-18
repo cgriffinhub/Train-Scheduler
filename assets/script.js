@@ -1,4 +1,5 @@
-  var config = {
+// api key from FireBase Example  
+var config = {
     apiKey: "AIzaSyCGxqy-EUcpo8Hn_qAU_6O4D0HX-lw6-T4",
     authDomain: "thursdaymagic-2ddc0.firebaseapp.com",
     databaseURL: "https://thursdaymagic-2ddc0.firebaseio.com",
